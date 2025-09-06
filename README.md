@@ -2,7 +2,6 @@
 100 Days of GRC Challenge – Overview:
 
 Course Structure:
-
 This program constitutes a 100-day challenge in Governance, Risk, and Compliance (GRC), dedicated to the progressive development of advanced cybersecurity competencies. It contains:
 •	Practical projects aimed at constructing a comprehensive GRC portfolio
 •	Strategic foundational work in GRC, facilitating the integration of business principles and technical expertise.
