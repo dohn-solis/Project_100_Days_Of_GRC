@@ -17,3 +17,8 @@ Daily Lessons and Expected Outcomes:
 
 Each day offers a distinct lesson, fostering both practical experience and the development of authentic GRC deliverables. At the course’s conclusion, I will possess a project suitable for professional presentation, hands-on proficiency in RMF, HIPAA, and FedRAMP, and a heightened level of confidence in applying these frameworks in real-world contexts.
 Each posted mini project is part of the larger project.
+
+
+Course Progression:
+
+As the course progresses, I will continue to post updates and mini-projects.
