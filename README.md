@@ -16,7 +16,7 @@ This course is a 100-day challenge in Governance, Risk, and Compliance (GRC), de
 
 Instructional Approach:
 
-The curriculum is designed to guide learners through the creation of a substantive GRC project, commencing with the Risk Management Framework. Instruction includes the mapping of controls, risk assessment, and documentation of security plans, with a strong emphasis on applied practice as opposed to theoretical study.
+The curriculum is designed to guide learners through the creation of a substantive GRC project named OpenMRS, commencing with the Risk Management Framework. Instruction includes the mapping of controls, risk assessment, and documentation of security plans, with a strong emphasis on applied practice as opposed to theoretical study.
 
 
 
