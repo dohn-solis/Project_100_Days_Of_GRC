@@ -4,7 +4,7 @@
 
 Course Structure:
 
-This course is a 100-day challenge in Governance, Risk, and Compliance (GRC), dedicated to the progressive development of advanced cybersecurity competencies. It contains:
+This course is a 100-day challenge in Governance, Risk, and Compliance (GRC), and it is focused on the progressive development of advanced cybersecurity competencies. It contains:
 
 •	Practical mini projects aimed at constructing a comprehensive GRC portfolio.
 
@@ -26,9 +26,9 @@ Daily Lessons and Expected Outcomes:
 Each day offers a distinct lesson, fostering both practical experience and the development of authentic GRC deliverables. At the course’s conclusion, I will have a completed project suitable for professional presentation, hands-on proficiency in RMF, HIPAA, and FedRAMP, and a heightened level of confidence in applying these frameworks in real-world contexts.
 Each posted mini project is part of the larger project.
 
+The course culminates with a Capstone Project which will allow me to showcase what I have learned throughout the course.
 
 
 
-Course Progression:
 
-As the course progresses, I will continue to post updates and mini-projects.
+
